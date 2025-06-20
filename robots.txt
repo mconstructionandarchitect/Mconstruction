@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Allow favicon
+Allow: /favicon.ico
