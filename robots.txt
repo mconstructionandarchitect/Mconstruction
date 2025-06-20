@@ -3,3 +3,5 @@ Allow: /
 
 # Allow favicon
 Allow: /favicon.ico
+
+Sitemap: https://mconstructionandarchitect.in/sitemap.xml
