@@ -1683,7 +1683,7 @@ navbar .lulu {
 }
 
 .sidebar .category-widget ul li span {
-    display: inline-block;
+    display: block;
     float: right;
 }
 
@@ -1885,6 +1885,7 @@ navbar .lulu {
 
 .footer .copyright {
     padding: 30px 15px;
+    font-size: 10px;
 }
 
 .footer .copyright p {
@@ -1911,6 +1912,7 @@ navbar .lulu {
     .footer .copyright .col-md-6:last-child p {
         margin: 5px 0;
         text-align: center;
+
     }
 }
 
